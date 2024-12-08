@@ -1,0 +1,20 @@
+Fase 1: O Quarto de Trabalho
+
+
+Chefe: -"Bom dia! Temos trabalho hoje, mas antes de começar, você precisa pegar seus equipamentos de proteção. Mas antes, saia deste quarto. Procure pela chave que está escondida por aqui."
+
+ícone (Mesa do chefe): 
+
+--------------------------------------( Ao clicar na mesa:)------------------------------------------------------------------------------------------------------------------------------
+
+Bilhete1: - "Você vê alguns papéis espalhados pela mesa"
+
+Bilhete2: -" Talvez a chave esteja escondida por aqui." 
+
+--------------------------------------(Narrativa ao encontrar a chave:)------------------------------------------------------------------------------------------------------------------
+
+Bilhete3: - "Parabéns! Você encontrou a chave. Agora, use-a para abrir a porta e encontrar o chefe."
+
+---------------------------------------(Ao sair do quarto):-----------------------------------------------------------------------------------------------------------------------------
+
+Chefe: - "Ótimo trabalho! Agora vá até o vestiário e pegue os EPIs necessários. Segurança é prioridade aqui!" 

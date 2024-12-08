@@ -1,0 +1,39 @@
+Fase 3: Área de Produção
+
+Chefe:
+
+"Agora você está na área de produção. Antes de operar a máquina, certifique-se de que está usando os EPIs adequadamente. Vamos verificar o que você pegou." 
+
+
+------------------------------------------------------Narrativa ao equipar cada EPI:-----------------------------------------------------------------------------------------
+
+Capacete:
+
+-"Capacete equipado. Sua cabeça está protegida contra impactos e quedas de objetos." 
+
+Luvas:
+
+-"Luvas colocadas. Você está pronto para lidar com ferramentas e máquinas de forma segura."
+
+Óculos:
+
+-"Óculos ajustados. Agora seus olhos estão protegidos contra qualquer risco."
+
+---------------------------------------------------------(Se faltar um EPI)------------------------------------------------------------------------------------------
+
+Chefe:
+
+-"Espere! Você não está completamente protegido. Verifique se está usando capacete, luvas e óculos de segurança. Sem isso, você não pode operar a máquina."
+
+
+---------------------------------------------Narrativa ao operar a máquina:--------------------------------------------------------------------------------------------
+
+Bilhete: "A máquina começa a funcionar sem problemas. Graças ao uso correto dos EPIs, você completou a tarefa com segurança e eficiência." 
+
+-----------------------------------------------------------(Ao finalizar)--------------------------------------------------------------------------------------------------
+
+Chefe: "Parabéns! Você concluiu a tarefa com excelência e declarou que sabe trabalhar com segurança. Continue assim, e você será um exemplo para toda a equipe!"
+
+ ---------------------------------------Extras (Diálogos Motivacionais ou Educativos que podem ser usados também)-----------------------------------------------------
+
+Chefe (em momentos de pausa:) "Lembre-se: um ambiente seguro é responsabilidade de todos. Equipar os EPIs é o primeiro passo para evitar acidentes."

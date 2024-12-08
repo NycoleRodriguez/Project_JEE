@@ -1,0 +1,35 @@
+Fase 2: O Vestiário
+
+Chefe:
+ 
+"Bem-vindo ao vestiário. Para trabalhar com segurança na linha de produção, você precisa de três EPIs essenciais: capacete, luvas e óculos de Escolha com cuidado!"
+
+--------------------(Narrativa ao clicar em um item correto):----------------------------------------------------------------------------------
+
+Capacete: 
+
+"Capacete escolhido. Ele protegerá sua cabeça contra quedas de objetos." 
+
+Luvas:
+
+"Luvas selecionadas. Elas são importantes para proteger suas mãos durante o trabalho."
+
+Óculos: 
+
+"Óculos de segurança prontos. Eles protegem seus olhos contra partículas e líquidos perigosos."
+
+----------------(Narrativa ao clicar em um item errado):-------------------------------------------------------------------------------------
+
+Tênis esportivo: 
+
+-"Tênis esportivo? Não é o ideal para um ambiente de trabalho como este. Tente outro item."
+ 
+Boné: 
+
+-"Boné escolhido? Isso não é suficiente para proteger sua cabeça. Pense bem!"
+
+--------------------------(Ao completar a fase)----------------------------------------------------------------------------------------------
+
+Chefe:
+
+-"Perfeito! Agora que você está com os EPIs corretos, podemos ir para a área de produção. Lembre-se de sempre usar o equipamento adequado!"
